@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="[https://github.com/lvisrodriguez/lvisrodriguez/issues/1](https://private-user-images.githubusercontent.com/117284829/687429213-34bc11bb-5222-4408-b2a0-ecf36de95e5f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMxODU4MTMsIm5iZiI6MTc5MzE4NTUxMywicGF0aCI6Ii8xMTcyODQ4MjkvNjg3NDI5MjEzLTM0YmMxMWJiLTUyMjItNDQwOC1iMmEwLWVjZjM2ZGU5NWU1Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMDI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTAyOFQxMTA1MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZjA3M2VlMDA0MGIwY2FhZDE1YmFmMDQwYThhMjI3OWFjMzg4MjdmZjhlN2ExYWEwYzUwZGIxM2I3ODg4NTM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.nN5ad6B3Ng5ThHUIXze4QX_vAOLvDf9gb6N5AwzLFzw)"
+    src="https://github.com/user-attachments/assets/34bc11bb-5222-4408-b2a0-ecf36de95e5f"
     alt="It works. Don’t touch it. — AI + CODE + BUGS = PROGRESS (?)"
     width="100%"
   />
