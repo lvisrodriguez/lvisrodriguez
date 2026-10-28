@@ -105,16 +105,11 @@ const luis = {
   </a>
 </p>
 
-<p align="center">
-  <samp>El banner dice “Don't touch it”.</samp><br />
-  <samp>Yo prefiero entenderlo, mejorarlo y poder mantenerlo.</samp>
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:0f172a&height=120&section=footer"
-    alt=""
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:0f172a&height=150&section=footer&text=El%20banner%20dice%20%E2%80%9CDon%27t%20touch%20it%E2%80%9D.&fontSize=15&fontColor=ffffff&fontAlignY=62&desc=Yo%20prefiero%20entenderlo%2C%20mejorarlo%20y%20poder%20mantenerlo.&descSize=15&descAlignY=80&descAlign=50"
+    alt="El banner dice “Don't touch it”. Yo prefiero entenderlo, mejorarlo y poder mantenerlo."
     width="100%"
   />
 </p>
